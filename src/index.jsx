@@ -10,7 +10,6 @@ import RightContent from "./component/rightContent.js";
 
 function Main() {
   return (
-    <div className="container">
       <div className="parent">
         <Home />
         <About />
@@ -19,7 +18,6 @@ function Main() {
           <RightContent />
         </div>
       </div>
-    </div>
   );
 }
 ReactDOM.render(<Main />, document.querySelector("#root"));

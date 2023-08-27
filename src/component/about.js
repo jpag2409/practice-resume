@@ -1,4 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
+import MultiHeadline from './multiheadline.js';
 
 import './index.css'
 import Profile from './profile.jpg'
@@ -7,7 +8,7 @@ function About() {
     return (
         <div className="about">
             <div>
-                <img src={Profile}/>
+                <img width={409.5} height={310} src={Profile} />
                 <div className="imgbg"></div>
             </div>
             <div className="about_info">
@@ -15,7 +16,7 @@ function About() {
                     <span>KARAN</span>
                     <span>KUMAR</span>
                 </h1>
-                <h3>Web Developer</h3>
+                <MultiHeadline />
                 <p>I excel in tackling challenges and enjoy crafting inventive solutions for
                     intricate issues. With a passion for
                     collaboration, I eagerly join forces with skilled professionals to deliver extraordinary outcomes.

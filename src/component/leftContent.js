@@ -6,7 +6,7 @@ import './index.css'
 function LeftContent() {
     return (
         <div className="main">
-             <div className="left">
+            <div className="left">
                 <div className="education">
                     <h1>Education</h1>
                     <div>
@@ -43,6 +43,35 @@ function LeftContent() {
                         <span>
                             <span><Icon.Controller /></span>
                             <p>Gaming</p>
+                        </span>
+                    </div>
+                </div>
+                <div className="social_media">
+                    <h1>Social Media</h1>
+                    <div>
+                        <span>
+                            <a href=''>
+                                <span><Icon.Whatsapp /></span>
+                                <p>Whatsapp</p>
+                            </a>
+                        </span>
+                        <span>
+                            <a href=''>
+                                <span><Icon.Linkedin /></span>
+                                <p>Linkedin</p>
+                            </a>
+                        </span>
+                        <span>
+                            <a href=''>
+                                <span><Icon.Instagram /></span>
+                                <p>Instagram</p>
+                            </a>
+                        </span>
+                        <span>
+                            <a href=''>
+                                <span><Icon.Github /></span>
+                                <p>Github</p>
+                            </a>
                         </span>
                     </div>
                 </div>

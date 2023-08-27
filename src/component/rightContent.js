@@ -20,11 +20,11 @@ function RightContent() {
                 <div>
                     <div>
                         <h3>HTML CSS & JavaScript</h3>
-                        <p>orginzation <span>04/2022-07/2022</span></p>
+                        <p>Coursera.com <span>04/2022-07/2022</span></p>
                     </div>
                     <div>
                         <h3>Responsive Web Design</h3>
-                        <p>orginzation <span>08/2022-12/2022</span></p>
+                        <p>CodeCamp <span>08/2022-12/2022</span></p>
                     </div>
                     <div>
                         <h3>Web & App Development</h3>
@@ -36,19 +36,36 @@ function RightContent() {
                 <h1>Skills</h1>
                     <div>
                         <div className="ui-widgets">
-                            <div className="ui-values">HTML<br />CSS</div>
+                            <div className="ui-values">HTML</div>
                         </div>
                         <div className="ui-widgets">
-                            <div className="ui-values">Java<br />Script</div>
+                            <div className="ui-values">Js</div>
                         </div>
                         <div className="ui-widgets">
-                            <div className="ui-values">React js</div>
+                            <div className="ui-values">CSS</div>
                         </div>
                         <div className="ui-widgets">
                             <div className="ui-values">Node js</div>
                         </div>
                         <div className="ui-widgets">
                             <div className="ui-values">Express</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div className="ui-widgets_2">
+                            <div className="ui-values">React js</div>
+                        </div>
+                        <div className="ui-widgets_2">
+                            <div className="ui-values">Tailwind</div>
+                        </div>
+                        <div className="ui-widgets_2">
+                            <div className="ui-values">MongoDb</div>
+                        </div>
+                        <div className="ui-widgets_2">
+                            <div className="ui-values">Firebase</div>
+                        </div>
+                        <div className="ui-widgets_2">
+                            <div className="ui-values">Git</div>
                         </div>
                     </div>
             </div>
