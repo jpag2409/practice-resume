@@ -10,9 +10,9 @@ function LeftContent() {
                 <div className="education">
                     <h1>Education</h1>
                     <div>
-                        <h3>B.E Electronics</h3>
-                        <p>Dawood UET</p>
-                        <p>2019-2023</p>
+                        <h3>B.Sc. Applied Mathematics</h3>
+                        <p>Instituto Tecnológico Autónomo de México (ITAM)</p>
+                        <p>August 2016 – December 2021</p>
                     </div>
                     <div>
                         <h3>Intermediate</h3>
@@ -41,8 +41,8 @@ function LeftContent() {
                             <p>Music</p>
                         </span>
                         <span>
-                            <span><Icon.Controller /></span>
-                            <p>Gaming</p>
+                            <span><Icon.Compass /></span>
+                            <p>Trekking</p>
                         </span>
                     </div>
                 </div>
@@ -50,25 +50,25 @@ function LeftContent() {
                     <h1>Social Media</h1>
                     <div>
                         <span>
-                            <a href=''>
+                            <a href='https://wa.me/+529993680060/'>
                                 <span><Icon.Whatsapp /></span>
                                 <p>Whatsapp</p>
                             </a>
                         </span>
                         <span>
-                            <a href=''>
+                            <a href='https://www.linkedin.com/in/jpag2409/'>
                                 <span><Icon.Linkedin /></span>
                                 <p>Linkedin</p>
                             </a>
                         </span>
                         <span>
-                            <a href=''>
+                            <a href='https://instagram.com/jpalvarezg?igshid=NGVhN2U2NjQ0Yg=='>
                                 <span><Icon.Instagram /></span>
                                 <p>Instagram</p>
                             </a>
                         </span>
                         <span>
-                            <a href=''>
+                            <a href='https://github.com/jpag2409/'>
                                 <span><Icon.Github /></span>
                                 <p>Github</p>
                             </a>

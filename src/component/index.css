@@ -36,7 +36,7 @@ div.top {
     display: flex;
     align-items: center;
     gap: 10px;
-    background-color: #fecb00;
+    background-color: #87CEFA;
     padding: 2em 8em 2em 2.5em;
 }
 
@@ -87,7 +87,7 @@ span>p:nth-child(2) {
 .about .about_info>h1 {
     display: flex;
     flex-direction: column;
-    border-bottom: 2px solid #b6a135;
+    border-bottom: 2px solid #87CEFA;
     width: 5.5em;
     margin-bottom: .4em;
     line-height: 40px;
@@ -143,7 +143,7 @@ span>p:nth-child(2) {
 }
 
 .main .left {
-    background-color: #fecb00;
+    background-color: #87CEFA;
     padding: 2em 0em 7.5em 2.89em;
     display: flex;
     flex-direction: column;

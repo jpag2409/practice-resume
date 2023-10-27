@@ -13,13 +13,16 @@ function About() {
             </div>
             <div className="about_info">
                 <h1>
-                    <span>KARAN</span>
-                    <span>KUMAR</span>
+                    <span>JUAN PABLO</span>
+                    <span>ALVAREZ</span>
                 </h1>
                 <MultiHeadline />
-                <p>I excel in tackling challenges and enjoy crafting inventive solutions for
-                    intricate issues. With a passion for
-                    collaboration, I eagerly join forces with skilled professionals to deliver extraordinary outcomes.
+                <p>I have over 2 years of experience in the IT industry, 
+                    leading teams and projects with excellence and innovation. 
+                    I possess a deep understanding of various technologies and 
+                    how to apply them to solve complex business problems. I value integrity, 
+                    collaboration and continuous learning in my work. 
+                    I am always looking for new challenges and opportunities to grow as a professional and a leader.
                 </p>
             </div>
         </div>

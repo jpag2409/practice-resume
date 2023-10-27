@@ -6,7 +6,7 @@ function RightContent() {
     return (
         <div className="right">
             <div className="project">
-                <h1>Project</h1>
+                <h1>Experience</h1>
                 <div>
                     <h4><a href="https://kkvmalhi-react-portfolio.web.app/" target="_blank">React Portfolio</a></h4>
                     <h4><a href="https://github.com/KaranKumar05/CURD-App-MongoDB.git" target="_blank">CURD-App with MongoDb</a></h4>
