@@ -36,8 +36,12 @@ div.top {
     display: flex;
     align-items: center;
     gap: 10px;
-    background-color: #87CEFA;
+    background-color:#5A4FCF;
     padding: 2em 8em 2em 2.5em;
+}
+
+.area, .about .about_info>h1 {
+    width: 321px;
 }
 
 .area>i {
@@ -87,7 +91,7 @@ span>p:nth-child(2) {
 .about .about_info>h1 {
     display: flex;
     flex-direction: column;
-    border-bottom: 2px solid #87CEFA;
+    border-bottom: 2px solid #5A4FCF;
     width: 5.5em;
     margin-bottom: .4em;
     line-height: 40px;
@@ -143,7 +147,7 @@ span>p:nth-child(2) {
 }
 
 .main .left {
-    background-color: #87CEFA;
+    background-color: #5A4FCF;
     padding: 2em 0em 7.5em 2.89em;
     display: flex;
     flex-direction: column;
@@ -166,16 +170,16 @@ span>p:nth-child(2) {
 .left .education>h1 {
     border-bottom: 2px solid #d2a606;
     padding: 0em 3.3em .5em 0;
-    color: rgb(53, 53, 53);
+    color: rgb(13, 13, 13);
 }
 
 .left .education>div>h3 {
     margin-bottom: .5em;
-    color: rgb(75, 75, 75);
+    color: rgb(13, 13, 13);
 }
 
 .left .education>div>p {
-    color: rgb(75, 75, 75);
+    color: rgb(13, 13, 13);
 }
 
 .left .hobbies {
