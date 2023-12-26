@@ -15,7 +15,7 @@ function RightContent() {
                     <ul>
                         <li>Led a key project for Santander US, optimizing asset management tools.</li>
                         <li>Established robust database security controls and streamlined stored procedures and views.</li>
-                        <li>Automated ETL workflows using Python, integrating Selenium, APIs, and SQL Server <br></br>for timely data
+                        <li>Automated ETL workflows using Python, integrating Selenium, APIs, and SQL Server for timely data
                             processing.</li>
                         <li>Engineered a comprehensive Python program to audit user, group and file system privileges across
                             thousands of Unix and AIX servers for Santander México, pinpointing data transformation errors and count
