@@ -27,10 +27,10 @@ function LeftContent() {
                         <h3>Joseph Rudik</h3>
                         <h4>Data Architect at Santander Bank</h4>
                         <em>“Juan Pablo is a dedicated person 
-                            who is willing <br></br> and ready to learn 
-                            new skill, absorb knowledge with amazing speed, and turn out
-                            projects that are well <br></br>written and to the point. I would highly
-                            recommend <br></br>Juan Pablo in any capacity as employee and I am sure
+                            who is willing and ready to learn 
+                            new skill, absorb knowledge with amazing speed, <br></br>and turn out
+                            projects that are well written and to the point. <br></br>I would highly
+                            recommend Juan Pablo in any capacity as employee and I am sure
                             he would be invaluable asset in any role”
                         </em>
                     </div>
