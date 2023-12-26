@@ -18,9 +18,9 @@
 } */
 
 .parent {
-    width: 960px;
-    height: 1460px;
-    background-color: white;
+    width: 1200px;
+    height: 1600px;
+    background-color: #000033    ;
     box-shadow: 0 20px 50px rgb(114, 114, 114);
 }
 
@@ -36,8 +36,8 @@ div.top {
     display: flex;
     align-items: center;
     gap: 10px;
-    background-color:#5A4FCF;
-    padding: 2em 8em 2em 2.5em;
+    background-color:#000033;
+    padding: 2em 2em 2em 2.5em;
 }
 
 .area, .about .about_info>h1 {
@@ -57,10 +57,12 @@ div.top {
 
 .bold {
     font-weight: bold;
+    color: white;
 }
 
 span>p:nth-child(2) {
     font-size: 0.7em;
+    color: white;
 }
 
 .about {
@@ -81,7 +83,6 @@ span>p:nth-child(2) {
     position: relative;
     top: 2px;
     filter: grayscale(100%);
-
 }
 
 .about .about_info {
@@ -92,10 +93,11 @@ span>p:nth-child(2) {
     display: flex;
     flex-direction: column;
     border-bottom: 2px solid #5A4FCF;
-    width: 5.5em;
+    width: 10em;
     margin-bottom: .4em;
     line-height: 40px;
     padding-bottom: 5px;
+    
 }
 
 .about .about_info>h1>span:nth-child(1) {
@@ -132,14 +134,14 @@ span>p:nth-child(2) {
     letter-spacing: 2px;
 }
 
-.imgbg {
+/* .imgbg {
     position: absolute;
     width: 313.5px;
     height: 310px;
     background-color: #ddb10058;
-    left: 3em;
-    top: 0em;
-}
+    left: 50%;
+    top: 50%;
+} */
 
 .main {
     display: flex;
@@ -148,7 +150,7 @@ span>p:nth-child(2) {
 
 .main .left {
     background-color: #5A4FCF;
-    padding: 2em 0em 7.5em 2.89em;
+    padding: 2em 2em 7.5em 2.89em;
     display: flex;
     flex-direction: column;
     gap: 2em;
@@ -170,16 +172,42 @@ span>p:nth-child(2) {
 .left .education>h1 {
     border-bottom: 2px solid #d2a606;
     padding: 0em 3.3em .5em 0;
-    color: rgb(13, 13, 13);
-}
+    color: white;}
 
 .left .education>div>h3 {
     margin-bottom: .5em;
-    color: rgb(13, 13, 13);
-}
+    color: white;}
 
 .left .education>div>p {
-    color: rgb(13, 13, 13);
+    color: white;}
+
+.left .recommendation {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.left .recommendation>h2 {
+    border-bottom: 2px solid #d2a606;
+    padding: 0em 3.3em .5em 0;
+    color: white;
+}
+
+.left .recommendation>div>h3 {
+    margin-bottom: 20px;
+    color: white;
+}    
+
+.left .recommendation>div>h4 {
+    margin-bottom: 20px;
+    color: white;
+}      
+
+.left .recommendation>div>em {
+    margin-bottom: 20px;
+    width: 500px;
+    color: white;
+    text-align: center;
 }
 
 .left .hobbies {
@@ -191,8 +219,7 @@ span>p:nth-child(2) {
 .left .hobbies>h1 {
     border-bottom: 2px solid #d2a606;
     padding: 1em 3.3em .5em 0;
-    color: rgb(53, 53, 53);
-}
+    color: white;}
 
 .left .hobbies>div {
     display: flex;
@@ -204,7 +231,7 @@ span>p:nth-child(2) {
     display: flex;
     flex-direction: column;
     gap: 5px;
-    color: rgb(75, 75, 75);
+    color: white;
     font-weight: bold;
     align-items: center;
     font-size: 1.1em;
@@ -225,8 +252,7 @@ span>p:nth-child(2) {
 .left .social_media>h1 {
     border-bottom: 2px solid #d2a606;
     padding: 1em 0em .5em 0;
-    color: rgb(53, 53, 53);
-}
+    color: white;}
 
 .left .social_media>div {
     display: flex;
@@ -239,8 +265,8 @@ span>p:nth-child(2) {
     gap: 10px;
     align-items: center;
     text-decoration: none;
-    color: rgb(53, 53, 53);
-}
+    color: white
+;}
 
 .left .social_media>div>span>a>span {
     border: 2px solid rgb(53, 53, 53);
@@ -292,14 +318,20 @@ span>p:nth-child(2) {
     border-bottom: 2px solid rgb(188, 187, 187);
     padding: 0 3.3em .5em 0;
     width: 100%;
-    color: rgb(53, 53, 53);
+    color: white;
 }
+
+.right, h1, h3, p, li {
+    color: white;
+}
+  
 
 .right .project>div {
     display: flex;
     flex-direction: column;
     gap: 10px;
     margin-bottom: 2em;
+    margin-right: 2em; 
 }
 
 .right .project>div a {
@@ -322,7 +354,7 @@ span>p:nth-child(2) {
     border-bottom: 2px solid rgb(188, 187, 187);
     padding: 0 3.3em .5em 0;
     width: 100%;
-    color: rgb(53, 53, 53);
+    color: white;
 }
 
 .right .certificate>div {
@@ -359,7 +391,7 @@ span>p:nth-child(2) {
     border-bottom: 2px solid rgb(188, 187, 187);
     padding: 0 3.3em .5em 0;
     width: 100%;
-    color: rgb(53, 53, 53);
+    color: white;
     margin-bottom: .5em;
 }
 
@@ -444,6 +476,7 @@ span>p:nth-child(2) {
     right: 0;
     font-weight: 700;
 }
+
 
 /* @media (max-width:410px) {
     body {

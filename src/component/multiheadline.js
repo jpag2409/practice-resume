@@ -4,7 +4,7 @@ import Typed from 'typed.js';
 function MultiHeadline() {
   useEffect(() => {
     const typed = new Typed(".multi-headline", {
-      strings: ["Cybersecurity Analyst", "Fullstack Developer", "Mathematician", "Freelancer"],
+      strings: ["Cybersecurity Analyst", "Fullstack Developer", "Mathematician"],
       typeSpeed: 80,
       backSpeed: 80,
       backDelay: 1000,

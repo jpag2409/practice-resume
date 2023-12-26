@@ -8,66 +8,75 @@ function RightContent() {
             <div className="project">
                 <h1>Experience</h1>
                 <div>
-                    <h4><a href="https://kkvmalhi-react-portfolio.web.app/" target="_blank">React Portfolio</a></h4>
-                    <h4><a href="https://github.com/KaranKumar05/CURD-App-MongoDB.git" target="_blank">CURD-App with MongoDb</a></h4>
-                    <h4><a href="https://github.com/KaranKumar05/My-Gaming-Web.git" target="_blank">My Gaming Web</a></h4>
-                    <h4><a href="https://karankumar05.github.io/flappy-bird/" target="_blank">Flappy Bird Game</a></h4>
-                    <h4><a href="https://karankumar05.github.io/tic_tac_tio/">Tic Tac Teo Game</a></h4>
+                    <h3>IT Security Developer & DBA</h3>
+                    <p>OCD Tech</p>
+                    <p>July 2022 – Ongoing</p>
+                    <p>Remote</p>
+                    <ul>
+                        <li>Led a key project for Santander US, optimizing asset management tools.</li>
+                        <li>Established robust database security controls and streamlined stored procedures and views.</li>
+                        <li>Automated ETL workflows using Python, integrating Selenium, APIs, and SQL Server for timely data
+                            processing.</li>
+                        <li>Engineered a comprehensive Python program to audit user, group and file system privileges across
+                            thousands of Unix and AIX servers for Santander México, pinpointing data transformation errors and count
+                            discrepancies.</li>
+                    </ul>
                 </div>
             </div>
             <div className="certificate">
                 <h1>Certificate</h1>
                 <div>
                     <div>
-                        <h3>HTML CSS & JavaScript</h3>
-                        <p>Coursera.com <span>04/2022-07/2022</span></p>
+                        <h3>Become an Ethical Hacker</h3>
+                        <p>LinkedIn Learning <span>12/2022</span></p>
                     </div>
                     <div>
-                        <h3>Responsive Web Design</h3>
-                        <p>CodeCamp <span>08/2022-12/2022</span></p>
+                        <h3>DeepLearning.AI TensorFlow Developer
+                        <br></br>Professional Certificate</h3>
+                        <p>Coursera<span>10/2020</span></p>
                     </div>
                     <div>
-                        <h3>Web & App Development</h3>
-                        <p>SMIT <span>01/2023-Present</span></p>
+                        <h3>B2 First Certificate in English</h3>
+                        <p>Cambridge English Language Assessment<span>08/2015</span></p>
                     </div>
                 </div>
             </div>
             <div className="skills">
                 <h1>Skills</h1>
-                    <div>
-                        <div className="ui-widgets">
-                            <div className="ui-values">HTML</div>
-                        </div>
-                        <div className="ui-widgets">
-                            <div className="ui-values">Js</div>
-                        </div>
-                        <div className="ui-widgets">
-                            <div className="ui-values">CSS</div>
-                        </div>
-                        <div className="ui-widgets">
-                            <div className="ui-values">Node js</div>
-                        </div>
-                        <div className="ui-widgets">
-                            <div className="ui-values">Express</div>
-                        </div>
+                <div>
+                    <div className="ui-widgets">
+                        <div className="ui-values">Python</div>
                     </div>
-                    <div>
-                        <div className="ui-widgets_2">
-                            <div className="ui-values">React js</div>
-                        </div>
-                        <div className="ui-widgets_2">
-                            <div className="ui-values">Tailwind</div>
-                        </div>
-                        <div className="ui-widgets_2">
-                            <div className="ui-values">MongoDb</div>
-                        </div>
-                        <div className="ui-widgets_2">
-                            <div className="ui-values">Firebase</div>
-                        </div>
-                        <div className="ui-widgets_2">
-                            <div className="ui-values">Git</div>
-                        </div>
+                    <div className="ui-widgets">
+                        <div className="ui-values">Java</div>
                     </div>
+                    <div className="ui-widgets">
+                        <div className="ui-values">Transact-SQL</div>
+                    </div>
+                    <div className="ui-widgets">
+                        <div className="ui-values">MongoDB</div>
+                    </div>
+                    <div className="ui-widgets">
+                        <div className="ui-values">git</div>
+                    </div>
+                </div>
+                <div>
+                    <div className="ui-widgets_2">
+                        <div className="ui-values">HTML</div>
+                    </div>
+                    <div className="ui-widgets_2">
+                        <div className="ui-values">CSS</div>
+                    </div>
+                    <div className="ui-widgets_2">
+                        <div className="ui-values">Javascript</div>
+                    </div>
+                    <div className="ui-widgets_2">
+                        <div className="ui-values">React js</div>
+                    </div>
+                    <div className="ui-widgets_2">
+                        <div className="ui-values">Node js</div>
+                    </div>
+                </div>
             </div>
         </div>
     );

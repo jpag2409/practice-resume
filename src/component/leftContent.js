@@ -15,17 +15,27 @@ function LeftContent() {
                         <p>August 2016 – December 2021</p>
                     </div>
                     <div>
-                        <h3>Intermediate</h3>
-                        <p>Sindh Public Collage Umerkot</p>
-                        <p>2018-2019</p>
-                    </div>
-                    <div>
-                        <h3>Matric</h3>
-                        <p>Sindh Public School Umerkot</p>
-                        <p>2017-2018</p>
+                        <h3>Kurt Huber Gymnasium</h3>
+                        <p>Exchange year abroad</p>
+                        <p>Munich, Germany</p>
+                        <p>2014-2015</p>
                     </div>
                 </div>
-                <div className="hobbies">
+                <div className="recommendation">
+                    <h2>Recommendation</h2>
+                    <div>
+                        <h3>Joseph Rudik</h3>
+                        <h4>Data Architect at Santander Bank</h4>
+                        <em>“Juan Pablo is a dedicated person 
+                            who is willing <br></br> and ready to learn 
+                            new skill, absorb knowledge with amazing speed, and turn out
+                            projects that are well <br></br>written and to the point. I would highly
+                            recommend <br></br>Juan Pablo in any capacity as employee and I am sure
+                            he would be invaluable asset in any role”
+                        </em>
+                    </div>
+                </div>
+                {/* <div className="hobbies">
                     <h1>Hobbies</h1>
                     <div>
                         <span>
@@ -45,7 +55,7 @@ function LeftContent() {
                             <p>Trekking</p>
                         </span>
                     </div>
-                </div>
+                </div> */}
                 <div className="social_media">
                     <h1>Social Media</h1>
                     <div>

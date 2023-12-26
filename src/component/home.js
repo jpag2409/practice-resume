@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import * as  Icon from 'react-bootstrap-icons'
 
 import './index.css'
@@ -21,11 +21,11 @@ function Home() {
                 </span>
                 <span>
                     <p className="bold">EMAIL</p>
-                    <p>jpalvarez@proton.me.com</p>
+                    <p>jpalvarez@proton.me</p>
                 </span>
                 <span>
-                    <p className="bold">WEB</p>
-                    <p><a href="https://kkvmalhi-react-portfolio.web.app/">My Portfolio</a></p>
+                    <p className="bold">CV</p>
+                    <p><a href="https://u.pcloud.link/publink/show?code=XZYqPy0Z6PuHHAlblsbOJcGN8Gq2ARJSs0sX">Download</a></p>
                 </span>
             </div>
         </div>
