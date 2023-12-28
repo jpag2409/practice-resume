@@ -8,7 +8,7 @@ function RightContent() {
             <div className="project">
                 <h1>Experience</h1>
                 <div>
-                    <h3>IT Security Developer & DBA</h3>
+                    <h3>IT Security Developer & Database Administrator</h3>
                     <p>OCD Tech</p>
                     <p>July 2022 – Ongoing</p>
                     <p>Remote</p>

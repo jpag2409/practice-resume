@@ -97,6 +97,7 @@ span>p:nth-child(2) {
     line-height: 40px;
     padding-bottom: 5px;
     overflow-wrap: break-word;
+    margin: 0 auto;
 }
 
 .about .about_info>h1>span:nth-child(1) {
@@ -112,6 +113,7 @@ span>p:nth-child(2) {
     font-size: 1.4em;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 4px;
+    margin: 0 auto;
 }
 
 .about .about_info>h3 {
@@ -121,7 +123,8 @@ span>p:nth-child(2) {
     word-spacing: 5px;
     letter-spacing: 2px;
     font-family: 'Quicksand', sans-serif;
-
+    margin: 0 auto;
+    width: 80%
 }
 
 .about .about_info>p {
@@ -131,6 +134,8 @@ span>p:nth-child(2) {
     /* font-family: ; */
     font-family: 'Quicksand', sans-serif;
     letter-spacing: 2px;
+    margin: 0 auto;
+    width: 80%
 }
 
 /* .imgbg {
@@ -203,10 +208,10 @@ span>p:nth-child(2) {
 }      
 
 .left .recommendation>div>em {
-    margin-bottom: 20px;
-    max-width: 1px;
-    color: white;
-    text-align: center;
+    margin-bottom: .5px;
+    display: block;
+    max-width: 1500px;
+    color: white;    
 }
 
 .left .hobbies {

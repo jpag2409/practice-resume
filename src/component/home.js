@@ -11,7 +11,7 @@ function Home() {
                 {/* <i className="bi bi-geo-alt-fill"></i> */}
                 <span>
                     <p className="bold">AREA</p>
-                    <p>Av. Homero 1532, Polanco II Secc, Miguel Hidalgo, 11530</p>
+                    <p>Av. Homero 1532, Polanco II Secc, Miguel Hidalgo, 11530,<br></br> Ciudad de México</p>
                 </span>
             </div>
             <div className="info">

@@ -7,10 +7,10 @@ import Profile from './profile.jpg'
 function About() {
     return (
         <div className="about">
-            <div>
+            {/* <div>
                 <img width={409.5} height={310} src={Profile} />
                 <div className="imgbg"></div>
-            </div>
+            </div> */}
             <div className="about_info">
                 <h1>
                     <span>JUAN PABLO</span>

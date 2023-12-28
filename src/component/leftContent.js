@@ -11,6 +11,7 @@ function LeftContent() {
                     <h1>Education</h1>
                     <div>
                         <h3>B.Sc. Applied Mathematics</h3>
+                        <p>Programming, Statistics, Machine Learning, Cryptography</p>
                         <p>Instituto Tecnológico Autónomo de México (ITAM)</p>
                         <p>August 2016 – December 2021</p>
                     </div>
